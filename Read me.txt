@@ -1,0 +1,15 @@
+Do not change the hierarchy of files while downloading for execution purpose. This may cause issues during execution.
+
+The project file consist of four python notebook file  which are the price prediction model for the four coins and also other HTML files, stylesheets and necessary images.
+
+First the python notebook files(bit coin.ipynb, Cardano.ipynb, Ethereum.ipynb, litecoin.ipynb )must be executed. 
+
+​The version of python used in proposed work is 3.8 and  the text editor used is Visual Studio Code. 
+
+After execution of the python notebook files, open index.html with live server. Index.html is the home page of the proposed work. 
+
+Scroll down to view the cards of each coin which has predict button.
+
+By clicking on the predict button of each coin respective prediction graph can be viewed.
+
+Click on live prices to view the live prices of the several coins.
